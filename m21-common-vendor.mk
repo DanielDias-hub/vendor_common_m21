@@ -139,7 +139,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m21-common/proprietary/vendor/lib/libGrallocWrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGrallocWrapper.so \
     vendor/samsung/m21-common/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
     vendor/samsung/m21-common/proprietary/vendor/lib/libSamsungPostProcessConvertor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSamsungPostProcessConvertor.so \
-    vendor/samsung/m21-common/proprietary/vendor/lib/lib_SamsungRec_07001.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SamsungRec_07001.so \
+    vendor/samsung/m21-common/proprietary/vendor/lib/lib_SamsungRec_07002.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SamsungRec_07002.so \
     vendor/samsung/m21-common/proprietary/vendor/lib/lib_SoundAlive_SRC384_ver320.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SoundAlive_SRC384_ver320.so \
     vendor/samsung/m21-common/proprietary/vendor/lib/lib_SoundBooster_ver1000.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SoundBooster_ver1000.so \
     vendor/samsung/m21-common/proprietary/vendor/lib/lib_soundaliveresampler.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_soundaliveresampler.so \
