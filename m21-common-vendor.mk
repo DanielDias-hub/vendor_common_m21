@@ -122,7 +122,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m21-common/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
     vendor/samsung/m21-common/proprietary/vendor/firmware/rtdsp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/rtdsp.bin \
     vendor/samsung/m21-common/proprietary/vendor/firmware/rtdsp_param.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/rtdsp_param.bin \
-    vendor/samsung/m21-common/proprietary/vendor/firmware/setfile_3p8sp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3p8sp.bin \
+    vendor/samsung/m21-common/proprietary/vendor/firmware/setfile_hi2021q.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_hi2021q.bin \
     vendor/samsung/m21-common/proprietary/vendor/firmware/setfile_4ha.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_4ha.bin \
     vendor/samsung/m21-common/proprietary/vendor/firmware/setfile_gc5035.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_gc5035.bin \
     vendor/samsung/m21-common/proprietary/vendor/firmware/setfile_gm2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_gm2.bin \
